@@ -17,7 +17,7 @@
 
 **[Landseed PBC](https://landseed.earth)** — Co-founder, with Greg Curtis, Patagonia's former Deputy General Counsel. Landseed deploys continuous sensor networks on conserved land and issues Earth Credits — instruments that measure ecological condition across six dimensions, anchored to county-recorded legal deeds, designed to replace the estimation architecture of the voluntary carbon market.
 
-**[PROOF Protocol](https://github.com/proof-xyz)** — Architect. Tokenization architecture spanning idea evaluation, asset origination, and instrument issuance on Solana. [ORBITAL](https://github.com/proof-xyz) is the intelligence machine — an 8-agent AI deliberation pipeline that evaluates opportunities across 26 jurisdictions, structures deals, and routes compliance. 87.8% verified accuracy with every prediction cryptographically anchored to Solana before outcomes are known. [ANCHOR](https://github.com/proof-xyz/ANCHOR) is the open oracle specification: receipt formation, automatic resolution, credence mechanics ($CRED mints on correct predictions, burns on incorrect). [Prior](https://github.com/proof-xyz/prior) is the founding argument.
+**[PROOF Protocol](https://proof-protocol.pages.dev)** — Architect. Tokenization architecture spanning idea evaluation, asset origination, and instrument issuance on Solana. [ORBITAL](https://proof-protocol.pages.dev) is the intelligence machine — an 8-agent AI deliberation pipeline that evaluates opportunities across 26 jurisdictions, structures deals, and routes compliance. 87.8% verified accuracy with every prediction cryptographically anchored to Solana before outcomes are known. [ANCHOR](https://github.com/proof-xyz/ANCHOR) is the open oracle specification: receipt formation, automatic resolution, credence mechanics ($CRED mints on correct predictions, burns on incorrect). [Prior](https://prior-protocol.pages.dev) is the founding argument.
 
 **[WhaleID](https://whaleid.org)** — Creator. v1 is live. A computer vision system that identifies individual humpback whales from any body part, any angle — especially underwater encounters that traditional fluke-matching can't process. Six neural networks, multiplicative fusion, under two minutes from upload to match. Free for everyone at [whaleid.org](https://whaleid.org).
 
@@ -45,7 +45,7 @@ As Managing Partner of Mythos Liquid Capital, a systematic digital asset fund, I
 | | |
 |:--|:--|
 | **[Landseed PBC](https://landseed.earth)** | Co-founder — ecological market infrastructure |
-| **[PROOF Protocol](https://github.com/proof-xyz)** | Architect — oracle accountability, tokenization intelligence |
+| **[PROOF Protocol](https://proof-protocol.pages.dev)** | Architect — oracle accountability, tokenization intelligence |
 | **[Roessner Restoration Initiative](https://rrinitiative.org)** | Founder — 501(c)(3), five continents |
 | **[WhaleID](https://whaleid.org)** | Creator — anatomical AI for whale identification |
 | **[Savia Foundation](https://saviafoundation.org)** | Vice President |
