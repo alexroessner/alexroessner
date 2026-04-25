@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/alex-roessner-0a9ba722a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/alex_roessner"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.instagram.com/alr_photo/"><img src="https://img.shields.io/badge/@alr__photo-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/alr_photo_/"><img src="https://img.shields.io/badge/@alr__photo__-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:aroessner1@gmail.com"><img src="https://img.shields.io/badge/Contact-5090B0?style=flat-square" alt="Contact" /></a>
 </p>
 
