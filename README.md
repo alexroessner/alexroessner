@@ -17,6 +17,8 @@
 
 **[Landseed PBC](https://landseed.earth)** — Co-founder, with Greg Curtis, Patagonia's former Deputy General Counsel. Landseed deploys continuous sensor networks on conserved land and issues Earth Credits — instruments that measure ecological condition across six dimensions, anchored to county-recorded legal deeds, designed to replace the estimation architecture of the voluntary carbon market.
 
+**[PROOF Protocol](https://github.com/proof-xyz)** — Architect. Tokenization engine and oracle accountability system on Solana (Token-2022). Three layers: [ORBITAL](https://github.com/proof-xyz) — AI deliberation across 26 jurisdictions, 87.8% verified accuracy, receipt-chain anchoring; [ANCHOR](https://github.com/proof-xyz/ANCHOR) — open oracle specification where predictions are cryptographically hashed on-chain before outcomes fire and oracle credibility ($CRED) mints or burns on accuracy; and five token primitives (Entity, Ownership, Fiscal, Identity, Consent) with transfer hooks for automated KYC enforcement. The infrastructure layer beneath Landseed's Earth Credits.
+
 **[WhaleID](https://whaleid.org)** — Creator. v1 is live. A computer vision system that identifies individual humpback whales from any body part, any angle — especially underwater encounters that traditional fluke-matching can't process. Six neural networks, multiplicative fusion, under two minutes from upload to match. Free for everyone at [whaleid.org](https://whaleid.org).
 
 ### Field
@@ -43,6 +45,7 @@ As Managing Partner of Mythos Liquid Capital, a systematic digital asset fund, I
 | | |
 |:--|:--|
 | **[Landseed PBC](https://landseed.earth)** | Co-founder — ecological market infrastructure |
+| **[PROOF Protocol](https://github.com/proof-xyz)** | Architect — tokenization engine, oracle accountability |
 | **[Roessner Restoration Initiative](https://rrinitiative.org)** | Founder — 501(c)(3), five continents |
 | **[WhaleID](https://whaleid.org)** | Creator — anatomical AI for whale identification |
 | **[Savia Foundation](https://saviafoundation.org)** | Vice President |
@@ -59,6 +62,17 @@ Co-authored cetacean re-identification paper expected 2026.
 **Northwestern University** — double B.A., Economics & Environmental Policy, three years, Division I baseball. Trienens Institute "Grads to Watch," Class of 2025. Proficient in Mandarin.
 
 ---
+
+<p align="center">
+  <sub>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+    <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  </sub>
+</p>
 
 <p align="center">
   <sub>Founder, <a href="https://rrinitiative.org"><strong>Roessner Restoration Initiative</strong></a> · 501(c)(3) · EIN 99-0623087</sub>
