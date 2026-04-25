@@ -8,7 +8,7 @@ Co-founder of **[Landseed PBC](https://landseed.earth)**, building measurement i
 
 I arrived at this work from the field.
 
-Tracked Sumatran tigers in the Leuser Ecosystem. Documented grassroots lemur conservation in Madagascar. Surveyed unmapped terrain in Ecuador's Chocó. Followed wild pumas through Patagonia. Photographed sperm whales in Dominica — then built **[WhaleID](https://whaleid.org)** to identify individual whales from underwater photographs. A co-authored paper on cetacean re-identification is expected in 2026.
+Tracked Sumatran tigers in the Leuser Ecosystem. Documented grassroots lemur conservation in Madagascar. Surveyed unmapped terrain in Ecuador's Chocó. Followed wild pumas through Patagonia. Photographed sperm whales in Dominica. Built **[WhaleID](https://whaleid.org)** — a computer vision system that identifies individual humpback whales from any body part, any angle. A co-authored paper on cetacean re-identification is expected in 2026.
 
 And from markets. As Managing Partner of Mythos Liquid Capital, a systematic digital asset fund, I developed the quantitative orientation that now shapes how I think about ecological market design.
 
