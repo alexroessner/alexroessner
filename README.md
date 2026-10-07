@@ -21,46 +21,6 @@
 
 **[WhaleID](https://whaleid.org)** — Creator. v1 is live. A computer vision system that identifies individual humpback whales from any body part, any angle — especially underwater encounters that traditional fluke-matching can't process. Six neural networks, multiplicative fusion, under two minutes from upload to match. Free for everyone at [whaleid.org](https://whaleid.org).
 
-### Field
-
-I arrived at this work from the field.
-
-Tracked Sumatran tigers in the Leuser Ecosystem. Documented grassroots lemur conservation in Madagascar. Surveyed unmapped terrain in Ecuador's Chocó. Followed wild pumas through Patagonia. Photographed sperm whales in Dominica.
-
-| Expedition | Focus | Region |
-|:-----------|:------|:-------|
-| **[Sumatra EcoEconomy](https://www.rrinitiative.org/projects/sumatra-ecoeconomy)** | Tiger tracking, community ranger programs | Indonesia |
-| **[Madagascar Expedition](https://www.rrinitiative.org/projects/madagascar%3A-expedition-to-a-forgotten-forest)** | Blue-eyed black lemur conservation | Madagascar |
-| **[The Chocó Expedition](https://www.rrinitiative.org/projects/the-choc%C3%B3%3A-expedition-to-survey-the-unexplored)** | Biodiversity survey of unexplored forest | Colombia |
-| **[Patagonia Puma Expedition](https://www.rrinitiative.org/projects/patagonia%3A-puma-expedition-)** | Wild puma tracking | Chile |
-
-### Markets
-
-As Managing Partner of Mythos Liquid Capital, a systematic digital asset fund, I developed the quantitative orientation that now shapes how I think about ecological market design.
-
----
-
-### Ventures
-
-| | |
-|:--|:--|
-| **[Landseed PBC](https://landseed.earth)** | Co-founder — ecological market infrastructure |
-| **[PROOF Protocol](https://proof-protocol.pages.dev)** | Architect — oracle accountability, tokenization intelligence |
-| **[Roessner Restoration Initiative](https://rrinitiative.org)** | Founder — 501(c)(3), five continents |
-| **[WhaleID](https://whaleid.org)** | Creator — anatomical AI for whale identification |
-| **[Savia Foundation](https://saviafoundation.org)** | Vice President |
-| **Mythos Liquid Capital** | Managing Partner |
-
-### Research
-
-*[Empowering Remote Conservation Through Digital Governance](https://www.scribd.com/document/925139163/)* (2025)
-
-Co-authored cetacean re-identification paper expected 2026.
-
-### Education
-
-**Northwestern University** — double B.A., Economics & Environmental Policy, three years, Division I baseball. Trienens Institute "Grads to Watch," Class of 2025. Proficient in Mandarin.
-
 ---
 
 <p align="center">
